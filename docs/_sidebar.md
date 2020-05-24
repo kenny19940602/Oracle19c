@@ -1,0 +1,7 @@
+* [配置ip地址](ip.md)
+* [Redhat7.6Linux本地的yum源配置](yum.md)
+* [xshell和Xftp连接虚拟机](xshell.md)
+* [在Linux下，使用Xmanager图形化显示](Xmanager.md)
+* [redhat7.6Linux安装Oracle19C完整版教程](oracle.md)
+* [Linux下创建Oracle19C的数据库实例](instance.md)
+* [配置环境变量](properties.md)
